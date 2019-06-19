@@ -1,2 +1,2 @@
-# DjangoReactJSTrain
+# DjangoReactJS
 Django &amp; ReactJS Training
